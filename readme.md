@@ -1,6 +1,6 @@
 # Beacon
 
-Automate Google Lighthouse performance reports in headless mode for a CSV list of URLs
+Automate Google Lighthouse performance reports in headless mode for a CSV list of URLs.
 
 ## Requirements
 
